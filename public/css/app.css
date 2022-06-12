@@ -1,0 +1,11 @@
+.r-side-profile{
+    float: right;
+    width: 50%;
+    text-align: left;
+}
+.l-side-profile{
+    float: left;
+    width: 50%;
+    text-align: left;
+    font-weight: bold;
+}
